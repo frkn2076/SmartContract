@@ -1,2 +1,2 @@
 # SmartContract
-A sample smart contract with Hardhat
+A sample block-chain smart contract with Hardhat
